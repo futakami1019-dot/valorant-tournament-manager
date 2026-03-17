@@ -70,3 +70,5 @@ Typical usage:
 ## Disclaimer
 
 This project is not affiliated with or endorsed by Riot Games.
+
+This tool does not provide a public API or allow third-party access.
